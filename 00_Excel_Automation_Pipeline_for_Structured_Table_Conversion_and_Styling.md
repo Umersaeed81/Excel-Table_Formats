@@ -40,7 +40,7 @@ from openpyxl.worksheet.table import Table, TableStyleInfo                # For 
 
 ```python
 # Define the folder path where all input/output files are located
-path = 'C:/Users/UWX161178/Desktop/New folder'
+path = 'C:/New folder'
 
 # Change the current working directory to the specified path
 # This ensures that all relative file operations (read/write) happen in this folder
