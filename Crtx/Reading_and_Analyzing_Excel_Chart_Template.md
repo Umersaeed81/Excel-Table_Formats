@@ -12,7 +12,7 @@ import win32com.client as win32
 
 
 ```python
-CRTX_PATH = r"C:\Users\UWX161178\AppData\Roaming\Microsoft\Templates\Charts\CS_Traffic_HQ.crtx"
+CRTX_PATH = r"C:\Users\AppData\Roaming\Microsoft\Templates\Charts\CS_Traffic_HQ.crtx"
 ```
 
 ## Function to Read and Extract Chart Template Properties Using Excel Engine
