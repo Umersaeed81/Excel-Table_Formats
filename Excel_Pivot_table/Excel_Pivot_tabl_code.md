@@ -76,7 +76,7 @@ def init_excel():
     return excel
 ```
 
-##🔵 `col_letter(n)`
+## 🔵 `col_letter(n)`
 
 - Converts column number to Excel letters (1 → A, 27 → AA)
 - Uses loop-based base-26 conversion
